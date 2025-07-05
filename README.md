@@ -3,4 +3,35 @@ Stockholm is a powerful and interactive notebook that demonstrates how to simula
 
 
 
+The stock price 
+𝑆
+(
+𝑡
+)
+S(t) is modeled as:
 
+𝑑
+𝑆
+(
+𝑡
+)
+=
+𝜇
+𝑆
+(
+𝑡
+)
+𝑑
+𝑡
++
+𝜎
+𝑆
+(
+𝑡
+)
+𝑑
+𝑊
+(
+𝑡
+)
+dS(t)=μS(t)dt+σS(t)dW(t)
